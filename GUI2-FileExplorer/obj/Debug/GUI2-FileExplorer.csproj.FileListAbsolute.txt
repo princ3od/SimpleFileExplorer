@@ -1,0 +1,9 @@
+D:\Projects\C#\IT008\GUI2-FileExplorer\bin\Debug\GUI2-FileExplorer.exe
+D:\Projects\C#\IT008\GUI2-FileExplorer\bin\Debug\GUI2-FileExplorer.pdb
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2-FileExplorer.csprojAssemblyReference.cache
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2_FileExplorer.frmMain.resources
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2_FileExplorer.Properties.Resources.resources
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2-FileExplorer.csproj.GenerateResource.cache
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2-FileExplorer.csproj.CoreCompileInputs.cache
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2-FileExplorer.exe
+D:\Projects\C#\IT008\GUI2-FileExplorer\obj\Debug\GUI2-FileExplorer.pdb
